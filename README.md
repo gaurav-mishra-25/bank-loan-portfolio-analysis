@@ -57,20 +57,18 @@ KPI cards for Total Loan Applications, Total Funded Amount, Total Amount Receive
 - **Loan Purpose Breakdown** — Bar chart
 - **Home Ownership Analysis** — Tree map
 
-![Dashboard 2 - Overview](screenshots/dashboard2_overview.png)
+![Dashboard 2 - Overview](screenshots/dashboard2_overview.png.png)
 
 ### 3. Details
 A consolidated grid view offering loan-level granularity across all key fields — borrower profile, loan terms, and performance metrics in one place.
 
-![Dashboard 3 - Details](screenshots/dashboard3_details.png)
+![Dashboard 3 - Details](screenshots/dashboard3_details.png.png)
 
 ---
 
 ## 💡 Key Insights
 
-> *Replace with real numbers once pulled from the dashboard.*
-
-- X% of loans are classified as **Good Loans**, funding $Y in total.
+- 86.2 % of loans are classified as **Good Loans**, funding $ in total.
 - **[State]** leads in total loan volume and amount received.
 - **Debt consolidation** is the top-stated loan purpose by application count.
 - Borrowers with **10+ years** of employment history account for the largest share of funded amount.
