@@ -47,7 +47,7 @@ The report is split into three dashboards:
 ### 1. Summary
 KPI cards for Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average DTI — each with MTD and MoM comparisons. Includes a Good Loan vs Bad Loan breakdown and a loan status grid view.
 
-![Dashboard 1 - Summary](screenshots/dashboard1_summary.png)
+![Dashboard 1 - Summary](screenshots/dashboard1_summary.png.png)
 
 ### 2. Overview
 - **Monthly Trends by Issue Date** — Line chart
