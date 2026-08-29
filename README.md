@@ -69,7 +69,7 @@ A consolidated grid view offering loan-level granularity across all key fields â
 ## ðŸ’¡ Key Insights
 
 - 86.2 % of loans are classified as **Good Loans**, funding $ 370.2M in total.
-- **[State]** leads in total loan volume and amount received.
+- **California** leads in total loan volume and amount received.
 - **Debt consolidation** is the top-stated loan purpose by application count.
 - Borrowers with **10+ years** of employment history account for the largest share of funded amount.
 
