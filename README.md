@@ -62,13 +62,13 @@ KPI cards for Total Loan Applications, Total Funded Amount, Total Amount Receive
 ### 3. Details
 A consolidated grid view offering loan-level granularity across all key fields — borrower profile, loan terms, and performance metrics in one place.
 
-![Dashboard 3 - Details](screenshots/dashboard3_details.png.png)
+![Dashboard 3 - Details](screenshots/dashboard3_Details.png.png)
 
 ---
 
 ## 💡 Key Insights
 
-- 86.2 % of loans are classified as **Good Loans**, funding $ in total.
+- 86.2 % of loans are classified as **Good Loans**, funding $ 370.2M in total.
 - **[State]** leads in total loan volume and amount received.
 - **Debt consolidation** is the top-stated loan purpose by application count.
 - Borrowers with **10+ years** of employment history account for the largest share of funded amount.
